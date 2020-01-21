@@ -15,8 +15,6 @@
                 </div>
                 <div class="text-center">
                   <h1 class="mb-2 text-white">SELAMAT DATANG DIKEBAB DURIAN BECEK </h1>
-                  <p class="m-auto w-75">Nongki Coffee & Eatery
- <strong>Jl. Dipatiukur No. 83, </strong> Bandung, <br> Jawa Barat Indonesia</p>
                 </div>
               </div>
             </div>
@@ -30,8 +28,8 @@
                           <i class="feather icon-users text-primary font-medium-5"></i>
                       </div>
                   </div>
-                  <h2 class="text-bold-700 mt-1 mb-25">123K</h2>
-                  <p class="mb-0">Follower</p>
+                  <h2 class="text-bold-700 mt-1 mb-25"></h2>
+                  <p class="mb-0"></p>
               </div>
               <div class="card-content">
                   <div id="subscribe-gain-chart"></div>
@@ -46,8 +44,8 @@
                             <i class="feather icon-package text-warning font-medium-5"></i>
                         </div>
                     </div>
-                    <h2 class="text-bold-700 mt-1 mb-25">256K</h2>
-                    <p class="mb-0">Total Order</p>
+                    <h2 class="text-bold-700 mt-1 mb-25"></h2>
+                    <p class="mb-0"></p>
                 </div>
                 <div class="card-content">
                     <div id="orders-received-chart"></div>
